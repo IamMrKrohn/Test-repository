@@ -1,2 +1,2 @@
-# Test-repository
-This is a second test description.
+# My very first repo
+This is my first repository. I suppose this is working OK.
